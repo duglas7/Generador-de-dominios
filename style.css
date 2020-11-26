@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+body h3 {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+body h4{
+    border: 1px solid gray;
+}
